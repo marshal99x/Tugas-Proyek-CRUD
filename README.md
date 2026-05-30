@@ -34,3 +34,26 @@ Aplikasi CRUD Data Buah berbasis PHP dan MySQL yang dibuat untuk memenuhi tugas 
 2. Letakkan project pada folder `htdocs`.
 3. Jalankan Apache dan MySQL melalui XAMPP.
 4. Buka browser dan akses aplikasi.
+
+## Screenshot
+
+### Halaman Utama
+![Home](homee.png.png)
+
+### Tambah Data
+![Tambah](tambah.png)
+
+### Hasil Tambah Data
+![Hasil Tambah](hasil-tambah.png)
+
+### Edit Data
+![Edit](edit.png)
+
+### Hasil Edit Data
+![Hasil Edit](hasil-edit.png)
+
+### Hapus Data
+![Hapus](hapus.png)
+
+### Hasil Hapus Data
+![Hasil Hapus](hasil-hapus.png)
