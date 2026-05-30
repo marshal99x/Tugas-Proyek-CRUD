@@ -29,20 +29,6 @@ Aplikasi CRUD Data Buah berbasis PHP dan MySQL yang dibuat untuk memenuhi tugas 
 - database.php
 - database.sql
 
-## Screenshot
-
-### Halaman Utama
-![Home](home.png)
-
-### Tambah Data
-![Tambah](tambah.png)
-
-### Edit Data
-![Edit](edit.png)
-
-### Hapus Data
-![Hapus](hapus.png)
-
 ## Cara Menjalankan
 1. Import file `database.sql` ke MySQL.
 2. Letakkan project pada folder `htdocs`.
